@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Basic ServerClient", "Basic ServerClient\Basic ServerClient.vcproj", "{4EED2C6E-3284-404B-BF47-DE95DB50A72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EED2C6E-3284-404B-BF47-DE95DB50A72C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EED2C6E-3284-404B-BF47-DE95DB50A72C}.Debug|Win32.Build.0 = Debug|Win32
+		{4EED2C6E-3284-404B-BF47-DE95DB50A72C}.Release|Win32.ActiveCfg = Release|Win32
+		{4EED2C6E-3284-404B-BF47-DE95DB50A72C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

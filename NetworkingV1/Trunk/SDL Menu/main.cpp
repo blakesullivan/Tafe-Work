@@ -1,0 +1,8 @@
+//Blake Sullivan - Main
+#include "Application.h"
+
+int main(int argc, char *argv[]) 
+{
+	Application app;
+    return 0;  
+}

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort-class", "sort-class\sort-class.vcproj", "{EDC7C17A-AB11-4BD2-8B72-40C774DD9F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC7C17A-AB11-4BD2-8B72-40C774DD9F9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDC7C17A-AB11-4BD2-8B72-40C774DD9F9F}.Debug|Win32.Build.0 = Debug|Win32
+		{EDC7C17A-AB11-4BD2-8B72-40C774DD9F9F}.Release|Win32.ActiveCfg = Release|Win32
+		{EDC7C17A-AB11-4BD2-8B72-40C774DD9F9F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

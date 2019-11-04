@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SQL ADO", "SQL ADO\SQL ADO.vcproj", "{E92340F6-A3DF-409C-A87C-AD3F4998F1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92340F6-A3DF-409C-A87C-AD3F4998F1CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E92340F6-A3DF-409C-A87C-AD3F4998F1CF}.Debug|Win32.Build.0 = Debug|Win32
+		{E92340F6-A3DF-409C-A87C-AD3F4998F1CF}.Release|Win32.ActiveCfg = Release|Win32
+		{E92340F6-A3DF-409C-A87C-AD3F4998F1CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

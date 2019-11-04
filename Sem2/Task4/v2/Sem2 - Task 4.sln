@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tile Game", "Tile Game\Tile Game.vcproj", "{550232B7-FE57-4981-B5BC-117E232138F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550232B7-FE57-4981-B5BC-117E232138F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{550232B7-FE57-4981-B5BC-117E232138F2}.Debug|Win32.Build.0 = Debug|Win32
+		{550232B7-FE57-4981-B5BC-117E232138F2}.Release|Win32.ActiveCfg = Release|Win32
+		{550232B7-FE57-4981-B5BC-117E232138F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

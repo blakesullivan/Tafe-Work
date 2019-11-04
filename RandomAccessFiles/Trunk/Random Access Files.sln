@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random Access Files", "Random Access Files\Random Access Files.vcproj", "{F81F2EFB-7CF0-47AD-80B1-0C7D5EAB7854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81F2EFB-7CF0-47AD-80B1-0C7D5EAB7854}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F81F2EFB-7CF0-47AD-80B1-0C7D5EAB7854}.Debug|Win32.Build.0 = Debug|Win32
+		{F81F2EFB-7CF0-47AD-80B1-0C7D5EAB7854}.Release|Win32.ActiveCfg = Release|Win32
+		{F81F2EFB-7CF0-47AD-80B1-0C7D5EAB7854}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
